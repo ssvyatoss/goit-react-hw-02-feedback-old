@@ -1,0 +1,20 @@
+.buttBox {
+  display: flex;
+}
+
+.buttHover {
+  margin-right: 10px;
+}
+
+.butt {
+  border-radius: 5px;
+  background-color: azure;
+}
+
+.butt:hover {
+  cursor: pointer;
+}
+
+.butt:active {
+  background-color: #336FFF;
+}/*# sourceMappingURL=index.module.css.map */
